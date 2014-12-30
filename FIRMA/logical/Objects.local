@@ -1,0 +1,6 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.logical.LogicalDesign>
+   <object objectType="Entity" objectID="BEC0E86C-2EF7-9F29-4FB2-0FCEDCA19503" name="Kontenery" seqName="seg_0"/>
+   <object objectType="Entity" objectID="A43577DE-B21E-2B87-F5DF-BD73BF933F20" name="Kontrahenci" seqName="seg_0"/>
+   <object objectType="Entity" objectID="EA792AEE-810E-D991-ADE0-F4F44A8EBE74" name="Umowy" seqName="seg_0"/>
+</oracle.dbtools.crest.model.design.logical.LogicalDesign>
